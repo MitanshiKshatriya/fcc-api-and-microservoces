@@ -1,0 +1,9 @@
+[submodule "exerciseTrackerFCC"]
+	path = exerciseTrackerFCC
+	url = https://github.com/MitanshiKshatriya/exerciseTrackerFCC.git
+[submodule "fileMetadataFCC"]
+	path = fileMetadataFCC
+	url = https://github.com/MitanshiKshatriya/fileMetadataFCC.git
+[submodule "URLshortner-FCC"]
+	path = URLshortner-FCC
+	url = https://github.com/MitanshiKshatriya/URLshortner-FCC
